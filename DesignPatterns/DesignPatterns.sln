@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{F6BFAA5C-5766-4A48-92A1-81C4F9036A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{C997AF7D-06C2-4AB2-B7E8-6B0131542B2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{F6BFAA5C-5766-4A48-92A1-81C4F9036A88}.Debug|x86.Build.0 = Debug|x86
 		{F6BFAA5C-5766-4A48-92A1-81C4F9036A88}.Release|x86.ActiveCfg = Release|x86
 		{F6BFAA5C-5766-4A48-92A1-81C4F9036A88}.Release|x86.Build.0 = Release|x86
+		{C997AF7D-06C2-4AB2-B7E8-6B0131542B2E}.Debug|x86.ActiveCfg = Debug|x86
+		{C997AF7D-06C2-4AB2-B7E8-6B0131542B2E}.Debug|x86.Build.0 = Debug|x86
+		{C997AF7D-06C2-4AB2-B7E8-6B0131542B2E}.Release|x86.ActiveCfg = Release|x86
+		{C997AF7D-06C2-4AB2-B7E8-6B0131542B2E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
