@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{1A7115FE-9B76-4C03-9F86-F8F04ED51B6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{196C274B-0DFD-4C2D-A223-C044840C9CD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{1A7115FE-9B76-4C03-9F86-F8F04ED51B6C}.Debug|x86.Build.0 = Debug|x86
 		{1A7115FE-9B76-4C03-9F86-F8F04ED51B6C}.Release|x86.ActiveCfg = Release|x86
 		{1A7115FE-9B76-4C03-9F86-F8F04ED51B6C}.Release|x86.Build.0 = Release|x86
+		{196C274B-0DFD-4C2D-A223-C044840C9CD3}.Debug|x86.ActiveCfg = Debug|x86
+		{196C274B-0DFD-4C2D-A223-C044840C9CD3}.Debug|x86.Build.0 = Debug|x86
+		{196C274B-0DFD-4C2D-A223-C044840C9CD3}.Release|x86.ActiveCfg = Release|x86
+		{196C274B-0DFD-4C2D-A223-C044840C9CD3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
