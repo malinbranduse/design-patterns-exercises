@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{09A499D2-185E-4223-A35F-CB984C1D93ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,5 +51,9 @@ Global
 		{09A499D2-185E-4223-A35F-CB984C1D93ED}.Debug|x86.Build.0 = Debug|x86
 		{09A499D2-185E-4223-A35F-CB984C1D93ED}.Release|x86.ActiveCfg = Release|x86
 		{09A499D2-185E-4223-A35F-CB984C1D93ED}.Release|x86.Build.0 = Release|x86
+		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Debug|x86.ActiveCfg = Debug|x86
+		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Debug|x86.Build.0 = Debug|x86
+		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Release|x86.ActiveCfg = Release|x86
+		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
