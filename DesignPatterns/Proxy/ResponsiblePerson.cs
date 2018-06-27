@@ -5,6 +5,12 @@ namespace Proxy
     {
         private Person person;
 
+        public int Age
+        {
+            get { return person.Age; }
+            set { person.Age = value; }
+        }
+
         public ResponsiblePerson(Person person)
         {
             this.person = person;
@@ -12,14 +18,14 @@ namespace Proxy
 
         public string Drink()
         {
-            return person.Age >= 18
+            return Age >= 18
                 ? person.Drink()
                 : "too young";
         }
 
         public string Drive()
         {
-            return person.Age >= 16
+            return Age >= 16
                 ? person.Drive()
                 : "too young";
         }
