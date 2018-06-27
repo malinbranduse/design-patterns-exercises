@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{D55DD00C-1B15-4062-9619-0BAB9D835D54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,5 +57,9 @@ Global
 		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Debug|x86.Build.0 = Debug|x86
 		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Release|x86.ActiveCfg = Release|x86
 		{B3FD0A86-DE37-4BCC-942E-0CC84FA10EDC}.Release|x86.Build.0 = Release|x86
+		{D55DD00C-1B15-4062-9619-0BAB9D835D54}.Debug|x86.ActiveCfg = Debug|x86
+		{D55DD00C-1B15-4062-9619-0BAB9D835D54}.Debug|x86.Build.0 = Debug|x86
+		{D55DD00C-1B15-4062-9619-0BAB9D835D54}.Release|x86.ActiveCfg = Release|x86
+		{D55DD00C-1B15-4062-9619-0BAB9D835D54}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
